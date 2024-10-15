@@ -12,7 +12,7 @@ const Hero = (props) => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-      My Name is Muhd Saiful. I am a Software Developer. Currently working at iSoftStone Sdn Bhd as a Software Developer. 
+      My Name is Muhd Saiful. I am a Software Developer. Currently working at iSoftStone Sdn Bhd as an Application Developer (Fullstack). 
       </SectionText>
       <Button href="https://saiful-personal-bucket.s3.us-east-2.amazonaws.com/Resume.pdf">Get Resume</Button>
     </LeftSection>

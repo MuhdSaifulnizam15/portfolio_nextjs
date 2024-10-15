@@ -4,6 +4,7 @@ import {
   DiApple,
   DiAws,
   DiBootstrap,
+  DiCode,
   DiCodeigniter,
   DiCss3,
   DiDart,
@@ -57,7 +58,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Programming Languages</ListTitle>
           <ListParagraph>
-            Experience with JavaScript (ES6), Java, HTML, CSS, PHP, Dart, C# and
+            Experience with JavaScript (ES6), Typescript, Java, HTML, CSS, PHP, Dart, C# and
             C++.
           </ListParagraph>
         </ListContainer>
@@ -85,7 +86,7 @@ const Technologies = () => (
           <ListTitle>Databases</ListTitle>
           <ListParagraph>
             Experience with <br />
-            MySQL, MS SQL <br />
+            MySQL, MariaDB, MS SQL <br />
             and MongoDB.
           </ListParagraph>
         </ListContainer>
@@ -173,6 +174,18 @@ const Technologies = () => (
             Experience with Bootstrap 4, <br />
             Theme UI, Ant Design and <br />
             and Material UI.
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <picture>
+          <DiCode size="3rem" />
+        </picture>
+        <ListContainer>
+          <ListTitle>Content Management System</ListTitle>
+          <ListParagraph>
+            Experience with Contentstack <br />
+            and Sanity.
           </ListParagraph>
         </ListContainer>
       </ListItem>
