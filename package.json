@@ -4,9 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export",
-    "start": "next start",
-    "export": "npm run build && next export -o _static"
+    "build": "next build",
+    "start": "next start"
   },
   "dependencies": {
     "eslint-config-next": "^15.2.0",
