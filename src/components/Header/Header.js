@@ -31,7 +31,7 @@ const Header = () => (
             width={80}
             style={{ marginRight: 10 }}
           />{" "}
-          <Span>Portfolio</Span>
+          {/* <Span>Portfolio</Span> */}
         {/* </a> */}
       </Link>
     </Div1>
