@@ -16,14 +16,14 @@ const Header = () => (
   <Container>
     <Div1>
       <Link href="/">
-        <a
+        {/* <a
           style={{
             display: "flex",
             alignItems: "center",
             color: "white",
             marginBottom: "20px",
           }}
-        >
+        > */}
           <img
             alt="Logo"
             src={"/logoipsum.svg"}
@@ -31,8 +31,8 @@ const Header = () => (
             width={80}
             style={{ marginRight: 10 }}
           />{" "}
-          <Span>Portfolio</Span>
-        </a>
+          {/* <Span>Portfolio</Span> */}
+        {/* </a> */}
       </Link>
     </Div1>
     <Div2>

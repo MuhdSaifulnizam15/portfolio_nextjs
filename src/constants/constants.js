@@ -65,7 +65,7 @@ export const certification = [
   { date: 'October 31, 2021', title: 'Microsoft Certified: Azure Fundamentals', provider: 'Microsoft' },
   { date: 'Dec 31, 2021', title: 'Certified Cloud Solutions Architect', provider: 'Asia Pacific University' },
   { date: 'April 14, 2022', title: 'Certified Solutions Architect Associate', provider: 'Amazon Web Services' },
-  { date: 'February 28, 2025', title: 'Foundational C# with Microsoft', provider: 'Freecodecamp & Microsoft' },
+  { date: 'February 28, 2025', title: 'Foundational C# with Microsoft', provider: 'Freecodecamp' },
 ];
 
 export const upcoming = [
