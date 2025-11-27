@@ -37,22 +37,22 @@ const Header = () => (
     </Div1>
     <Div2>
       <li>
-        <Link href="#projects">
+        <Link href="#projects" passHref legacyBehavior>
           <NavLink>Projects</NavLink>
         </Link>
       </li>
       <li>
-        <Link href="#tech">
+        <Link href="#tech" passHref legacyBehavior>
           <NavLink>Technologies</NavLink>
         </Link>
       </li>
       <li>
-        <Link href="#about">
+        <Link href="#about" passHref legacyBehavior>
           <NavLink>About</NavLink>
         </Link>
       </li>
       <li>
-        <Link href="#certification">
+        <Link href="#certification" passHref legacyBehavior>
           <NavLink>Certification</NavLink>
         </Link>
       </li>

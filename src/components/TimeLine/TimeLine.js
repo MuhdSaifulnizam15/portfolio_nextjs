@@ -68,7 +68,7 @@ const Timeline = (props) => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      Full stack developer with 4 years of experience in the mobile and web application field. Passionate in software development
+      Full stack developer with 5 years of experience in the mobile and web application field. Passionate in software development
       fields. Expertise in Javascript, Restful APIs, Contentstack and React Native. Motivated, self-starting problem solver with a
       passion for code and design, who is also dedicated to lifelong learning. Day-to-day involves creating and maintaining a
       scalable microservices or web applications system for clients across the country.

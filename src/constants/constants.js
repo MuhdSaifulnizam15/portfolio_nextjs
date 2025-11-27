@@ -39,16 +39,6 @@ export const projects = [
     id: 4,
     status: 'Complete'
   },
-  // {
-  //   title: 'Unichat',
-  //   description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-  //   image: '/images/4.jpg',
-  //   tags: ['React', 'ChatEngine', 'Firebase'],
-  //   source: 'https://google.com',
-  //   visit: 'https://google.com',
-  //   id: 3,
-  //   status: 'next project',
-  // },
 ];
 
 export const TimeLineData = [
@@ -57,6 +47,7 @@ export const TimeLineData = [
   { year: 2020, text: 'Worked as Front-end mobile app and web developer at Azure Innovations', },
   { year: 2022, text: 'Worked as Mobile App Developer at Rymnet Solutions Sdn. Bhd', },
   { year: 2023, text: 'Worked as Software Developer at iSoftStone Sdn. Bhd', },
+  { year: 2025, text: 'Worked as Senior Application Developer (Fullstack) at iSoftStone Sdn. Bhd', },
 ];
 
 export const certification = [
@@ -66,6 +57,7 @@ export const certification = [
   { date: 'Dec 31, 2021', title: 'Certified Cloud Solutions Architect', provider: 'Asia Pacific University' },
   { date: 'April 14, 2022', title: 'Certified Solutions Architect Associate', provider: 'Amazon Web Services' },
   { date: 'February 28, 2025', title: 'Foundational C# with Microsoft', provider: 'Freecodecamp' },
+  { date: 'September 06, 2025', title: 'Certified Developer Associate', provider: 'Amazon Web Services' },
 ];
 
 export const upcoming = [
